@@ -10,7 +10,7 @@ function setup(){ // hopefully i can make some eyes bleed.
         stroke(0,229,238); //blue line up
         strokeWeight(4);
         rect(x, y, 4,10 );
-        stroke(255,0,0); //red box
+        stroke(255,69,0); //red box
         strokeWeight(1.5);
         fill(color(0,0,255))
         rect(x, y, 7,7 );
