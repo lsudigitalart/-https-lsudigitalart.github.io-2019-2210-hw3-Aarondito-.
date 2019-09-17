@@ -6,6 +6,9 @@ function setup(){
       for(let x = 10; x < 3200; x += 20){
         stroke(102,255,0);
         strokeWeight(4);
+        rect(x, y, 4,10 );
+        stroke(220,0,230);
+        strokeWeight(1);
         rect(x, y, 7,7 );
         stroke('#fae');
         strokeWeight(4);
